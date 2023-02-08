@@ -16,3 +16,6 @@
 
 #Hide MacOS system generated file
 *.DS_Store
+
+# Hide Jetbrains temporary file
+.idea
